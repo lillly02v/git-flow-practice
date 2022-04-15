@@ -1,0 +1,5 @@
+body {background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,23,121,0.8729866946778712) 35%, rgba(0,212,255,1) 100%);}
+.intro {width:350px; margin:0 auto; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); color:#fff;}
+table td {text-align:left; padding:10px;}
+table td a {color:#fff;}
